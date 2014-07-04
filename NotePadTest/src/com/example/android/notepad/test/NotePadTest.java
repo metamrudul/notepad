@@ -10,7 +10,7 @@
  * 
  */
 
-package com.robotium.test;
+package com.example.android.notepad.test;
 
 import com.robotium.solo.Solo;
 import com.example.android.notepad.NotesList;
